@@ -1,16 +1,8 @@
 # sbt
-# (may want to keep parts of 'project')
 bin/
 project/target
 target/
 build/
-
-# eclipse
-build
-.classpath
-.project
-.settings
-.worksheet
 
 # intellij idea
 *.log
@@ -30,3 +22,5 @@ build
 
 #general
 *.class
+
+test.xml
